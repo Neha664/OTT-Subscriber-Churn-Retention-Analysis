@@ -50,7 +50,7 @@ The project contains three dashboard pages, each designed to answer a different 
 *Focus: What does the overall subscriber and churn picture look like?*
 
 <p align="center">
-  <img src="Dashboards/Page1-Executive-Overview.png" alt="Executive Overview Dashboard" width="900">
+  <img src="./Dashboards/Page1-Executive-Overview.png" alt="Executive Overview Dashboard" width="900">
 </p>
 
 ### 2. Subscriber Retention Analysis
@@ -58,7 +58,7 @@ The project contains three dashboard pages, each designed to answer a different 
 *Focus: How does churn differ across subscriber segments, payment methods, and engagement patterns?*
 
 <p align="center">
-  <img src="Dashboards/Page2-Retention-Engagement.png" alt="Subscriber Retention Dashboard" width="900">
+  <img src="./Dashboards/Page2-Retention-Engagement.png" alt="Subscriber Retention Dashboard" width="900">
 </p>
 
 ### 3. Business Insights & Recommendations
@@ -66,7 +66,7 @@ The project contains three dashboard pages, each designed to answer a different 
 *Focus: What should the business investigate next based on the observed patterns?*
 
 <p align="center">
-  <img src="Dashboards/Page3-Customer-Segments.png" alt="Customer Segments and Retention Priorities Dashboard" width="900">
+  <img src="./Dashboards/Page3-Customer-Segments.png" alt="Customer Segments and Retention Priorities Dashboard" width="900">
 </p>
 
 ## 🔍 Key Findings
