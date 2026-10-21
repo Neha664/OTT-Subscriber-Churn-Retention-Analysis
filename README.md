@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="images/netflix-logo.png" alt="Netflix logo" width="180">
+</p>
 # 📺 OTT Subscriber Churn & Retention Analysis
 
 <p align="center">
