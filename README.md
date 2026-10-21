@@ -142,26 +142,7 @@ These limitations matter because good business decisions depend on understanding
 3. Review the SQL queries and results to see how the business questions were investigated.
 4. Compare the findings with the recommendations and limitations documented here.
 
-### Python Environment
 
-Install the main analysis libraries if needed:
-
-```bash
-pip install pandas numpy matplotlib seaborn jupyter
-```
-
-Open the Python notebook in Jupyter Notebook or JupyterLab and execute the cells in order. Confirm the dataset path in the notebook before running it.
-
-SQL queries are provided separately in the `sql-analysis/` folder.
-
-## 👩‍💻 About the Author
-
-**Neha Shinge**
-
-Aspiring Data Analyst interested in using SQL, Python, and business intelligence tools to solve practical business problems.
-
-- [GitHub Profile](https://github.com/Neha664)
-- [Project Repository](https://github.com/Neha664/ott-subscriber-churn-retention-analysis)
 
 ---
 
