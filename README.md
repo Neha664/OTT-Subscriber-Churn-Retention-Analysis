@@ -4,7 +4,7 @@
        alt="Netflix logo" width="180">
 </p>
 
-# 📺 OTT Subscriber Churn & Retention Analysis
+<h1 align="center">📺 OTT Subscriber Churn &amp; Retention Analysis</h1>
 
 <p align="center">
   <strong>Turning Subscriber Data into Retention Insights</strong>
